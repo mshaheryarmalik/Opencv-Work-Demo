@@ -1,0 +1,1 @@
+In each image, distance of laptop from cameras is calculated and displayed.

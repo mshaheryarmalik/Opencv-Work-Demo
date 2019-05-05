@@ -1,0 +1,1 @@
+Using object detection and object tracking to count number of people who entered and exited a specific place.
